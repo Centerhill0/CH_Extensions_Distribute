@@ -1,0 +1,7 @@
+# Blender 扩展分发仓库: 只收录根目录的 zip 包 / 索引 / 说明文件。
+# release.py 的暂存目录(以插件名命名, 如 ch_utils_tools/) 与其他杂物一律不入库。
+/*
+!/.gitignore
+!/README.md
+!/index.json
+!/*.zip
