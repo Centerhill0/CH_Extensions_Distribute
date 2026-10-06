@@ -24,6 +24,26 @@
     },
     {
       "schema_version": "1.0.0",
+      "id": "ch_utils_tools",
+      "name": "CH Custom Tools",
+      "tagline": "Custom Blender tools",
+      "version": "0.6.0",
+      "type": "add-on",
+      "maintainer": "Centerhill",
+      "license": [
+        "SPDX:GPL-3.0-or-later"
+      ],
+      "blender_version_min": "5.1.0",
+      "tags": [
+        "3D View",
+        "Object"
+      ],
+      "archive_url": "./ch_utils_tools_ext_V0.6.0.zip",
+      "archive_size": 363472,
+      "archive_hash": "sha256:0d732e2ba6b8fcd1822714eb7c5ba1ca079b8b2a5135dbc04159fd47a9b71167"
+    },
+    {
+      "schema_version": "1.0.0",
       "id": "mcp",
       "name": "MCP",
       "tagline": "MCP server add-on for LLM interaction",
