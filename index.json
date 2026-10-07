@@ -7,7 +7,7 @@
       "id": "ch_ai_assistant",
       "name": "CH AI Assistant",
       "tagline": "AI script generator for the text editor",
-      "version": "0.0.2",
+      "version": "0.1.0",
       "type": "add-on",
       "maintainer": "Centerhill",
       "license": [
@@ -15,14 +15,14 @@
       ],
       "blender_version_min": "5.1.0",
       "permissions": {
-        "network": "Send prompts and scene context to the configured AI service"
+        "network": "Send prompts, scene context and reference images to the configured AI services"
       },
       "tags": [
         "3D View"
       ],
-      "archive_url": "./ch_ai_assistant_ext_V0.0.2.zip",
-      "archive_size": 45390,
-      "archive_hash": "sha256:0da17d95d6a942f672b5a367d12f3f90644cafad774dfd07323ebf04ba9bf88b"
+      "archive_url": "./ch_ai_assistant_ext_V0.1.0.zip",
+      "archive_size": 121024,
+      "archive_hash": "sha256:36921f9e394bd3cadb8855a824f6db275e7d4825b3552d7280e13bf83591584a"
     },
     {
       "schema_version": "1.0.0",
