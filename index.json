@@ -6,8 +6,8 @@
       "schema_version": "1.0.0",
       "id": "ch_ai_assistant",
       "name": "CH AI Assistant",
-      "tagline": "AI script generator for the text editor",
-      "version": "0.1.0",
+      "tagline": "AI script, chat, texture and render generation",
+      "version": "1.0.0",
       "type": "add-on",
       "maintainer": "Centerhill",
       "license": [
@@ -20,9 +20,9 @@
       "tags": [
         "3D View"
       ],
-      "archive_url": "./ch_ai_assistant_ext_V0.1.0.zip",
-      "archive_size": 121024,
-      "archive_hash": "sha256:36921f9e394bd3cadb8855a824f6db275e7d4825b3552d7280e13bf83591584a"
+      "archive_url": "./ch_ai_assistant_ext_V1.0.0.zip",
+      "archive_size": 226996,
+      "archive_hash": "sha256:4c606d9881f41b88c16364a287817428911b0c48de38f9f84daa0f38e09dcade"
     },
     {
       "schema_version": "1.0.0",
