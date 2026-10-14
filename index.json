@@ -86,6 +86,77 @@
       "archive_url": "./perspective_plotter_V1.2.0.zip",
       "archive_size": 25833,
       "archive_hash": "sha256:b00dfa634b1c0a5dee18582b5e4f713fe92e29934aba5b3501a0a39d46aca51d"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "plasticity_blender_bridge",
+      "name": "Plasticity Bridge",
+      "tagline": "A bridge to Plasticity",
+      "version": "2.2.1",
+      "type": "add-on",
+      "maintainer": "Nick Kallen, User129863",
+      "license": [
+        "SPDX:GPL-3.0-or-later"
+      ],
+      "blender_version_min": "4.2.0",
+      "website": "https://github.com/nickkallen/plasticity-blender-addon",
+      "permissions": {
+        "network": "Connect to the Plasticity application over local websockets"
+      },
+      "tags": [
+        "Object"
+      ],
+      "archive_url": "./plasticity_blender_bridge-V2.2.1.zip",
+      "archive_size": 107625,
+      "archive_hash": "sha256:c174ba6479dc1cf1541222f826c0bbd9d7b2d3eb0d48369c63fba2d87faba9b2"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "polyhavenassets",
+      "name": "Poly Haven Assets",
+      "tagline": "Add HDRIs, materials and models from polyhaven.com",
+      "version": "1.2.3",
+      "type": "add-on",
+      "maintainer": "Poly Haven",
+      "license": [
+        "SPDX:GPL-3.0-or-later"
+      ],
+      "blender_version_min": "4.2.0",
+      "website": "https://polyhaven.com",
+      "permissions": {
+        "network": "Fetch assets and metadata from polyhaven.com",
+        "files": "Write downloaded assets and blend files to disk"
+      },
+      "tags": [
+        "Import-Export",
+        "User Interface"
+      ],
+      "archive_url": "./polyhavenassets-V1.2.3.zip",
+      "archive_size": 391600,
+      "archive_hash": "sha256:70b65e77195f2baf611dde12c450eb782decf8ff4eeb40c24d03b8a124e98561"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sketchup_importer",
+      "name": "SketchUp Importer",
+      "tagline": "Import native SketchUp (.skp) files",
+      "version": "0.27.0",
+      "type": "add-on",
+      "maintainer": "Martijn Berger, Sanjay Mehta, Arindam Mondal, Peter Kirkham",
+      "license": [
+        "SPDX:GPL-3.0-or-later"
+      ],
+      "blender_version_min": "4.2.0",
+      "website": "https://github.com/martijnberger/pyslapi",
+      "permissions": {
+        "files": "Read .skp files from disk during import"
+      },
+      "tags": [
+        "Import-Export"
+      ],
+      "archive_url": "./sketchup_importer-V0.27.0.zip",
+      "archive_size": 7766647,
+      "archive_hash": "sha256:1b954181f9a3161ddef5c9710173b7266b1efdbad0d0b4c8bd17ee038998fe25"
     }
   ]
 }
