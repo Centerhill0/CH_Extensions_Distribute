@@ -5,3 +5,6 @@
 !/README.md
 !/index.json
 !/*.zip
+# 旧版归档目录(publish.py 自动维护): 必须显式放行, 否则归档包不入库, 备份名存实亡。
+!/archive/
+!/archive/*.zip
