@@ -26,6 +26,26 @@
     },
     {
       "schema_version": "1.0.0",
+      "id": "ch_scene_helper",
+      "name": "CH Scene Helper",
+      "tagline": "Scene resource workshop for lights, cameras and materials",
+      "version": "0.1.1",
+      "type": "add-on",
+      "maintainer": "Centerhill",
+      "license": [
+        "SPDX:GPL-3.0-or-later"
+      ],
+      "blender_version_min": "5.1.0",
+      "tags": [
+        "3D View",
+        "Object"
+      ],
+      "archive_url": "./ch_scene_helper_ext_V0.1.1.zip",
+      "archive_size": 60571,
+      "archive_hash": "sha256:97c6474c68d477d3015c7cba2fac2c263d517cf4e47daaead1fb48bd92162ef0"
+    },
+    {
+      "schema_version": "1.0.0",
       "id": "ch_utils_tools",
       "name": "CH Custom Tools",
       "tagline": "Custom Blender tools",
