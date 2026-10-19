@@ -49,7 +49,7 @@
       "id": "ch_utils_tools",
       "name": "CH Custom Tools",
       "tagline": "Custom Blender tools",
-      "version": "0.7.2",
+      "version": "0.7.3",
       "type": "add-on",
       "maintainer": "Centerhill",
       "license": [
@@ -60,9 +60,9 @@
         "3D View",
         "Object"
       ],
-      "archive_url": "./ch_utils_tools_ext_V0.7.2.zip",
-      "archive_size": 362397,
-      "archive_hash": "sha256:18aff0b71ab6908cb6135ff8b21552ed97b099ef7e112a2671983f64e619f36f"
+      "archive_url": "./ch_utils_tools_ext_V0.7.3.zip",
+      "archive_size": 362057,
+      "archive_hash": "sha256:7d50e6f3dd7730afe3721d9bd2e67faedbc0ac7052ecf0a7afea14e2105f3fe0"
     },
     {
       "schema_version": "1.0.0",
