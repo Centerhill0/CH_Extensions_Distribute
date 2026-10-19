@@ -7,7 +7,7 @@
       "id": "ch_ai_assistant",
       "name": "CH AI Assistant",
       "tagline": "AI script, chat, texture and render generation",
-      "version": "1.2.5",
+      "version": "1.2.6",
       "type": "add-on",
       "maintainer": "Centerhill",
       "license": [
@@ -20,16 +20,16 @@
       "tags": [
         "3D View"
       ],
-      "archive_url": "./ch_ai_assistant_ext_V1.2.5.zip",
-      "archive_size": 269754,
-      "archive_hash": "sha256:eae01a6742626c19068021245778ad388269f49f7d735a3189523e15352a08b6"
+      "archive_url": "./ch_ai_assistant_ext_V1.2.6.zip",
+      "archive_size": 280372,
+      "archive_hash": "sha256:221db12c8bac99248c83798cc4be97114c36e2db5a8cc9a9f8d407b372d6d491"
     },
     {
       "schema_version": "1.0.0",
       "id": "ch_scene_helper",
       "name": "CH Scene Helper",
       "tagline": "Scene resource workshop for lights, cameras and materials",
-      "version": "0.3.0",
+      "version": "0.3.1",
       "type": "add-on",
       "maintainer": "Centerhill",
       "license": [
@@ -40,16 +40,16 @@
         "3D View",
         "Object"
       ],
-      "archive_url": "./ch_scene_helper_ext_V0.3.0.zip",
-      "archive_size": 94980,
-      "archive_hash": "sha256:6829391c634c28a56d59f4a75bc4e150bab393887fcd239a284dbc1570537763"
+      "archive_url": "./ch_scene_helper_ext_V0.3.1.zip",
+      "archive_size": 100687,
+      "archive_hash": "sha256:7120ec79b82d8b05f4619221336c878fdc7294a8ceabab1fc99dcd4dbb86ce0d"
     },
     {
       "schema_version": "1.0.0",
       "id": "ch_utils_tools",
       "name": "CH Custom Tools",
       "tagline": "Custom Blender tools",
-      "version": "0.7.1",
+      "version": "0.7.2",
       "type": "add-on",
       "maintainer": "Centerhill",
       "license": [
@@ -60,9 +60,9 @@
         "3D View",
         "Object"
       ],
-      "archive_url": "./ch_utils_tools_ext_V0.7.1.zip",
-      "archive_size": 358604,
-      "archive_hash": "sha256:3c03ec396baa11917661afaec5e2bfbce8e69fd0059e097e06e71cd170819368"
+      "archive_url": "./ch_utils_tools_ext_V0.7.2.zip",
+      "archive_size": 362397,
+      "archive_hash": "sha256:18aff0b71ab6908cb6135ff8b21552ed97b099ef7e112a2671983f64e619f36f"
     },
     {
       "schema_version": "1.0.0",
