@@ -7,7 +7,7 @@
       "id": "ch_ai_assistant",
       "name": "CH AI Assistant",
       "tagline": "AI script, chat, texture and render generation",
-      "version": "1.2.6",
+      "version": "1.2.7",
       "type": "add-on",
       "maintainer": "Centerhill",
       "license": [
@@ -20,16 +20,16 @@
       "tags": [
         "3D View"
       ],
-      "archive_url": "./ch_ai_assistant_ext_V1.2.6.zip",
-      "archive_size": 280372,
-      "archive_hash": "sha256:221db12c8bac99248c83798cc4be97114c36e2db5a8cc9a9f8d407b372d6d491"
+      "archive_url": "./ch_ai_assistant_ext_V1.2.7.zip",
+      "archive_size": 280011,
+      "archive_hash": "sha256:08b884d1ff752f39b8b0c9fd639d5255aa86afcfbcf107cd48d08bcd3772f393"
     },
     {
       "schema_version": "1.0.0",
       "id": "ch_scene_helper",
       "name": "CH Scene Helper",
       "tagline": "Scene resource workshop for lights, cameras and materials",
-      "version": "0.3.2",
+      "version": "0.3.3",
       "type": "add-on",
       "maintainer": "Centerhill",
       "license": [
@@ -40,9 +40,9 @@
         "3D View",
         "Object"
       ],
-      "archive_url": "./ch_scene_helper_ext_V0.3.2.zip",
-      "archive_size": 101997,
-      "archive_hash": "sha256:77a402232cc9504b8b0cc9477760c048e9ee0b951c5bdfbd83fd071a60122f64"
+      "archive_url": "./ch_scene_helper_ext_V0.3.3.zip",
+      "archive_size": 118530,
+      "archive_hash": "sha256:a7e049377ff4b307f883d2120562dd91649a8c73333a7684e4e63ce74643ca34"
     },
     {
       "schema_version": "1.0.0",
