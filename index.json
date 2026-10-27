@@ -7,7 +7,7 @@
       "id": "ch_ai_assistant",
       "name": "CH AI Assistant",
       "tagline": "AI script, chat, texture and render generation",
-      "version": "1.2.7",
+      "version": "1.3.0",
       "type": "add-on",
       "maintainer": "Centerhill",
       "license": [
@@ -20,9 +20,9 @@
       "tags": [
         "3D View"
       ],
-      "archive_url": "./ch_ai_assistant_ext_V1.2.7.zip",
-      "archive_size": 280011,
-      "archive_hash": "sha256:08b884d1ff752f39b8b0c9fd639d5255aa86afcfbcf107cd48d08bcd3772f393"
+      "archive_url": "./ch_ai_assistant_ext_V1.3.0.zip",
+      "archive_size": 284916,
+      "archive_hash": "sha256:2362ed5e29c8ce591b49581054dd7b8001106601bcafc34b1009aa1c9b839240"
     },
     {
       "schema_version": "1.0.0",
