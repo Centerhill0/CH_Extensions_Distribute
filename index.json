@@ -29,7 +29,7 @@
       "id": "ch_scene_helper",
       "name": "CH Scene Helper",
       "tagline": "Scene resource workshop for lights, cameras and materials",
-      "version": "0.5.0",
+      "version": "0.6.0",
       "type": "add-on",
       "maintainer": "Centerhill",
       "license": [
@@ -40,9 +40,9 @@
         "3D View",
         "Object"
       ],
-      "archive_url": "./ch_scene_helper_ext_V0.5.0.zip",
-      "archive_size": 140809,
-      "archive_hash": "sha256:9d91e7330a16c80323a7e198134ad58d87d2d232733fe749385078cdf6ae0576"
+      "archive_url": "./ch_scene_helper_ext_V0.6.0.zip",
+      "archive_size": 175209,
+      "archive_hash": "sha256:5b85a227b1e8f2f785d353e55ecd2e5481c39c7d8bdceeb0de69cc66378f2784"
     },
     {
       "schema_version": "1.0.0",
