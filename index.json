@@ -29,27 +29,30 @@
       "id": "ch_scene_helper",
       "name": "CH Scene Helper",
       "tagline": "Scene resource workshop for lights, cameras and materials",
-      "version": "0.9.0",
+      "version": "0.10.0",
       "type": "add-on",
       "maintainer": "Centerhill",
       "license": [
         "SPDX:GPL-3.0-or-later"
       ],
       "blender_version_min": "5.1.0",
+      "permissions": {
+        "files": "Read image textures and IES profiles from the asset directories configured in the add-on preferences"
+      },
       "tags": [
         "3D View",
         "Object"
       ],
-      "archive_url": "./ch_scene_helper_ext_V0.9.0.zip",
-      "archive_size": 199713,
-      "archive_hash": "sha256:38dcf3cdb62442fb5c0a16e5d6e9d38a778016c13e78f5976222525f16192d5e"
+      "archive_url": "./ch_scene_helper_ext_V0.10.0.zip",
+      "archive_size": 252457,
+      "archive_hash": "sha256:e4e9b8f7ce0657913253f6e946b6fbbd964ea7a62ab679875543a6eafc9cd8c1"
     },
     {
       "schema_version": "1.0.0",
       "id": "ch_utils_tools",
       "name": "CH Custom Tools",
       "tagline": "Custom Blender tools",
-      "version": "1.0.4",
+      "version": "1.0.5",
       "type": "add-on",
       "maintainer": "Centerhill",
       "license": [
@@ -60,9 +63,9 @@
         "3D View",
         "Object"
       ],
-      "archive_url": "./ch_utils_tools_ext_V1.0.4.zip",
-      "archive_size": 386160,
-      "archive_hash": "sha256:088acd3fa167a8e60c1ac71903fb03c8a1d541d072823713a2f2c35e36bbf54e"
+      "archive_url": "./ch_utils_tools_ext_V1.0.5.zip",
+      "archive_size": 386240,
+      "archive_hash": "sha256:1fe158f80e5aead660d31e859eb3e03107ac3a09724406aa6c928d62f952af5f"
     },
     {
       "schema_version": "1.0.0",
