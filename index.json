@@ -1,6 +1,7 @@
 {
   "version": "v1",
   "blocklist": [],
+  "assetlib_auth_method": "PER_LIBRARY",
   "data": [
     {
       "schema_version": "1.0.0",
@@ -29,13 +30,13 @@
       "id": "ch_scene_helper",
       "name": "CH Scene Helper",
       "tagline": "Scene resource workshop for lights, cameras and materials",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "type": "add-on",
       "maintainer": "Centerhill",
       "license": [
         "SPDX:GPL-3.0-or-later"
       ],
-      "blender_version_min": "5.1.0",
+      "blender_version_min": "5.3.0",
       "permissions": {
         "files": "Read image textures and IES profiles from the asset directories configured in the add-on preferences"
       },
@@ -43,9 +44,9 @@
         "3D View",
         "Object"
       ],
-      "archive_url": "./ch_scene_helper_ext_V1.0.0.zip",
-      "archive_size": 261951,
-      "archive_hash": "sha256:e8feb366b5c76656b5e4933d3cf9df77d565c6e83c7206af4f668f21572a6253"
+      "archive_url": "./ch_scene_helper_ext_V1.1.0.zip",
+      "archive_size": 267806,
+      "archive_hash": "sha256:dec59716ed4baf1917e891bcfb804c822eb86a2d8b981b125e9d64ce4053c88d"
     },
     {
       "schema_version": "1.0.0",
