@@ -8,22 +8,23 @@
       "id": "ch_ai_assistant",
       "name": "CH AI Assistant",
       "tagline": "AI script, chat, texture and render generation",
-      "version": "1.5.0",
+      "version": "1.6.0",
       "type": "add-on",
       "maintainer": "Centerhill",
       "license": [
         "SPDX:GPL-3.0-or-later"
       ],
-      "blender_version_min": "5.1.0",
+      "blender_version_min": "5.3.0",
       "permissions": {
-        "network": "Send prompts, scene context and reference images to the configured AI services"
+        "network": "Send prompts, scene context and reference images to the configured AI services",
+        "files": "Write captured pass EXRs to the system temp dir and save generated images to user-chosen locations"
       },
       "tags": [
         "3D View"
       ],
-      "archive_url": "./ch_ai_assistant_ext_V1.5.0.zip",
-      "archive_size": 290752,
-      "archive_hash": "sha256:fdbe38cbb97f98707c0606aca013bdd5bacb13af1fdcbceaedaa5c0de6d74b05"
+      "archive_url": "./ch_ai_assistant_ext_V1.6.0.zip",
+      "archive_size": 310568,
+      "archive_hash": "sha256:69f39269407c5d45d82b34c6d2709a50b9257da1ac141acaa56f2e55e5177322"
     },
     {
       "schema_version": "1.0.0",
