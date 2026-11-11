@@ -8,7 +8,7 @@
       "id": "ch_ai_assistant",
       "name": "CH AI Assistant",
       "tagline": "AI script, chat, texture and render generation",
-      "version": "1.6.0",
+      "version": "1.7.0",
       "type": "add-on",
       "maintainer": "Centerhill",
       "license": [
@@ -22,38 +22,15 @@
       "tags": [
         "3D View"
       ],
-      "archive_url": "./ch_ai_assistant_ext_V1.6.0.zip",
-      "archive_size": 310568,
-      "archive_hash": "sha256:69f39269407c5d45d82b34c6d2709a50b9257da1ac141acaa56f2e55e5177322"
+      "archive_url": "./ch_ai_assistant_ext_V1.7.0.zip",
+      "archive_size": 310301,
+      "archive_hash": "sha256:e3b78bc0461d5ccae694bfa414e3ec5a0d82408fb77f8f5cc38128a1045de0cc"
     },
     {
       "schema_version": "1.0.0",
       "id": "ch_scene_helper",
       "name": "CH Scene Helper",
       "tagline": "Scene resource workshop for lights, cameras and materials",
-      "version": "1.1.0",
-      "type": "add-on",
-      "maintainer": "Centerhill",
-      "license": [
-        "SPDX:GPL-3.0-or-later"
-      ],
-      "blender_version_min": "5.3.0",
-      "permissions": {
-        "files": "Read image textures and IES profiles from the asset directories configured in the add-on preferences"
-      },
-      "tags": [
-        "3D View",
-        "Object"
-      ],
-      "archive_url": "./ch_scene_helper_ext_V1.1.0.zip",
-      "archive_size": 267806,
-      "archive_hash": "sha256:dec59716ed4baf1917e891bcfb804c822eb86a2d8b981b125e9d64ce4053c88d"
-    },
-    {
-      "schema_version": "1.0.0",
-      "id": "ch_utils_tools",
-      "name": "CH Custom Tools",
-      "tagline": "Custom Blender tools",
       "version": "1.2.0",
       "type": "add-on",
       "maintainer": "Centerhill",
@@ -61,13 +38,37 @@
         "SPDX:GPL-3.0-or-later"
       ],
       "blender_version_min": "5.3.0",
+      "permissions": {
+        "network": "Download HDRI files of the online asset libraries configured in the add-on preferences",
+        "files": "Read image textures, IES profiles and HDRI files from the asset directories configured in the add-on preferences, and write downloaded HDRI files into those online libraries"
+      },
       "tags": [
         "3D View",
         "Object"
       ],
-      "archive_url": "./ch_utils_tools_ext_V1.2.0.zip",
-      "archive_size": 396292,
-      "archive_hash": "sha256:9bde99289108ad996f67209e9f47d191f122591956b0fefb3f5c71a9c2c3ad24"
+      "archive_url": "./ch_scene_helper_ext_V1.2.0.zip",
+      "archive_size": 356644,
+      "archive_hash": "sha256:987e4f43b835831da2ef54e9a07059a9c2fe5bde4e29ef0f368cbcf45864a1cd"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "ch_utils_tools",
+      "name": "CH Custom Tools",
+      "tagline": "Custom Blender tools",
+      "version": "1.2.1",
+      "type": "add-on",
+      "maintainer": "Centerhill",
+      "license": [
+        "SPDX:GPL-3.0-or-later"
+      ],
+      "blender_version_min": "5.3.0",
+      "tags": [
+        "3D View",
+        "Object"
+      ],
+      "archive_url": "./ch_utils_tools_ext_V1.2.1.zip",
+      "archive_size": 397324,
+      "archive_hash": "sha256:9cdaaeecfbe87e14154bf1cbc2fdc4570c52a20642f6a72572c0dafe7d060386"
     },
     {
       "schema_version": "1.0.0",
