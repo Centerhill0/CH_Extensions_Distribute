@@ -31,7 +31,7 @@
       "id": "ch_scene_helper",
       "name": "CH Scene Helper",
       "tagline": "Scene resource workshop for lights, cameras and materials",
-      "version": "1.2.0",
+      "version": "1.3.0",
       "type": "add-on",
       "maintainer": "Centerhill",
       "license": [
@@ -46,16 +46,16 @@
         "3D View",
         "Object"
       ],
-      "archive_url": "./ch_scene_helper_ext_V1.2.0.zip",
-      "archive_size": 356644,
-      "archive_hash": "sha256:987e4f43b835831da2ef54e9a07059a9c2fe5bde4e29ef0f368cbcf45864a1cd"
+      "archive_url": "./ch_scene_helper_ext_V1.3.0.zip",
+      "archive_size": 361367,
+      "archive_hash": "sha256:ab646d0d3e6989fbbf82c33edf20dc6da26fe0db92a951cd147f8c860b238f19"
     },
     {
       "schema_version": "1.0.0",
       "id": "ch_utils_tools",
       "name": "CH Custom Tools",
       "tagline": "Custom Blender tools",
-      "version": "1.2.1",
+      "version": "1.2.2",
       "type": "add-on",
       "maintainer": "Centerhill",
       "license": [
@@ -66,9 +66,9 @@
         "3D View",
         "Object"
       ],
-      "archive_url": "./ch_utils_tools_ext_V1.2.1.zip",
-      "archive_size": 397324,
-      "archive_hash": "sha256:9cdaaeecfbe87e14154bf1cbc2fdc4570c52a20642f6a72572c0dafe7d060386"
+      "archive_url": "./ch_utils_tools_ext_V1.2.2.zip",
+      "archive_size": 396734,
+      "archive_hash": "sha256:892a612428ae52dc3938772a904a6a9fd9a7e1e26a60a52ddef37701acc3515b"
     },
     {
       "schema_version": "1.0.0",
